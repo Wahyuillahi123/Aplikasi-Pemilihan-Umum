@@ -1,5 +1,5 @@
 # Aplikasi-Pemilihan-Umum-Berbasis-Website
-Aplikasi Pemilihan Umum KPU Berbasis Website Benggunakan Javascript, Nodejs Express dan Mongodb.
+Aplikasi Pemilihan Umum KPU Berbasis Website Menggunakan Javascript, Nodejs Express dan Mongodb.
 Setiap baris tersedia komentar agar mudah dimengerti dalam proses pengembangan.
 
 *Pemilihan:
